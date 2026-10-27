@@ -66,7 +66,8 @@ evidence-driven-agent-workflow/
 ├── README.md
 ├── README.en.md
 ├── README.ja.md
-├── LICENSE.txt
+├── LICENSE
+├── NOTICE.md
 ├── assets/task-contract.md
 └── references/
     ├── workflow.md
@@ -85,4 +86,4 @@ Format validation and example review do not demonstrate improved engineering suc
 
 ## License
 
-The original workflow and package documentation use [MIT](LICENSE.txt). Thorsten Ball retains rights to the source article. Its full text and images are not distributed. No endorsement by Thorsten Ball, Amp, Anthropic, or SkillHub is claimed.
+The original workflow and package documentation use [MIT](LICENSE). Thorsten Ball retains rights to the source article. Its full text and images are not distributed. No endorsement by Thorsten Ball, Amp, Anthropic, or SkillHub is claimed.

@@ -66,7 +66,8 @@ evidence-driven-agent-workflow/
 ├── README.md
 ├── README.en.md
 ├── README.ja.md
-├── LICENSE.txt
+├── LICENSE
+├── NOTICE.md
 ├── assets/task-contract.md
 └── references/
     ├── workflow.md
@@ -85,4 +86,4 @@ SKILL.mdは簡潔な英語の指示で、必要な参照資料だけを読み込
 
 ## ライセンス
 
-独自の手順と説明は [MIT](LICENSE.txt) です。原記事の権利はThorsten Ballに帰属し、全文や画像は配布していません。Thorsten Ball、Amp、Anthropic、SkillHubによる推奨や公式認定を示すものではありません。
+独自の手順と説明は [MIT](LICENSE) です。原記事の権利はThorsten Ballに帰属し、全文や画像は配布していません。Thorsten Ball、Amp、Anthropic、SkillHubによる推奨や公式認定を示すものではありません。

@@ -66,7 +66,8 @@ evidence-driven-agent-workflow/
 ├── README.md
 ├── README.en.md
 ├── README.ja.md
-├── LICENSE.txt
+├── LICENSE
+├── NOTICE.md
 ├── assets/task-contract.md
 └── references/
     ├── workflow.md
@@ -85,4 +86,4 @@ SKILL.md使用简洁英文指令，Agent按需读取四份参考，输出使用�
 
 ## 许可证
 
-本包原创流程与说明采用 [MIT](LICENSE.txt)。原文章版权属于 Thorsten Ball；未打包全文或图片。未获作者背书，不是 Amp、Anthropic 或 SkillHub 官方项目。
+本包原创流程与说明采用 [MIT](LICENSE)。原文章版权属于 Thorsten Ball；未打包全文或图片。未获作者背书，不是 Amp、Anthropic 或 SkillHub 官方项目。
